@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning blockchain / smart contracts
 - 🤔 I’m looking for help with decipling my children
 - 💬 Ask me about best Japanese restaurant
-- 📫 How to reach me: gotchaping.com
 - ⚡ Fun fact: ...
 
 
