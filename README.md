@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There.+I'm+glad+you+are+here!;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There.+I'm+glad+you+are+here!;Make+yourself+of+home👋)](https://git.io/typing-svg)
 
 ### Hi there 👋
 
