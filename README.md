@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There.+I'm+glad+you+are+here!;Second+line+of+text)](https://git.io/typing-svg)
+
 ### Hi there 👋
 
 <!--
