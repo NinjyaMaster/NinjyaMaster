@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There.+I'm+glad+you+are+here!;+Make+yourself+at+home+👋)](https://git.io/typing-svg)
 
-#### I'm Mia. Fullstack enginer. My second job is homeschool mother of 2
+#### I'm Mia. Fullstack enginer.
 
 ---
 
 
 ### ⚡️ A quick introduction
-- 🔭 I’m currently working on highschool transcript generator
+- 🔭 I’m currently working on transcript generator
 - 🌱 I’m currently learning blockchain / smart contracts
 - 🤔 I’m looking for help with decipling my children
 - 💬 Ask me about how to make miso soup
