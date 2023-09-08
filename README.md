@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There.+I'm+glad+you+are+here!;+Make+yourself+at+home+👋)](https://git.io/typing-svg)
 
-#### I'm Mia. Fullstack enginer.
+#### I'm Mia. Fullstack engineer.
 
 ---
 
